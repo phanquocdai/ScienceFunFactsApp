@@ -1,1 +1,1 @@
-"# ScienceFunFactsApp" 
+"ScienceFunFactsApp" 
